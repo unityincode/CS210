@@ -1,0 +1,24 @@
+1. Prompt the user for the following information:
+   - Initial Investment Amount
+   - Monthly Deposit
+   - Annual Interest (Compounded)
+   - Number of Years
+
+2. Create an instance of the BankAccount class with the provided initial investment amount and annual interest rate.
+
+3. Display a table showing the year-end balances without monthly deposits:
+   a. Calculate the number of months based on the number of years.
+   b. For each year:
+      - Calculate the opening amount, which includes interest.
+      - Display the year and the opening amount.
+      - Calculate and display the closing balance.
+
+4. Display a table showing the year-end balances with monthly deposits:
+   a. Prompt the user for the monthly deposit amount.
+   b. Repeat the same steps as in step 3, but include the monthly deposit in the calculations.
+
+5. Display the year-end reports for both scenarios:
+   a. Calculate the year-end earned interest for each year.
+   b. Display the year and the earned interest.
+
+6. End the program.
